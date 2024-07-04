@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi 👋
+Focus on backend development, but obviously I like programming in general. Recently I am learning Python, but I have some interest in low-level languages, especially Rust and Assembly. Be welcome to collaborate in my repositories and talk to me for work in some project or organization.
 <!--
 **yurimacena/yurimacena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

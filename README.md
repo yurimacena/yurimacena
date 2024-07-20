@@ -1,5 +1,7 @@
 ## Hi 👋
-Focus on backend development, but obviously I like programming in general. Recently I am learning Python and Artificial Intelligence, but I have some interest in low-level languages, especially Rust and Assembly. Be welcome to collaborate in my repositories and talk to me for work in some project or organization.
+Focus on backend development, but obviously I like programming in general. Recently I am learning Python and Data Analytics. Be welcome to collaborate in my repositories and talk to me for work in some project or organization.
+
+Tools that I use actually: Power BI, Python, MySQL Workbrench, MongoDB, Git and Articial Intelligence.
 <!--
 **yurimacena/yurimacena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

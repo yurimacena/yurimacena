@@ -1,5 +1,5 @@
 ## Hi 👋
-Focus on backend development, but obviously I like programming in general. Recently I am learning Python and Data Analytics. Be welcome to collaborate in my repositories and talk to me for work in some project or organization.
+Focusing on data analytics, but I like programming especially in backend development. Recently I am learning Power BI and Machine Learning. Be welcome to collaborate in my repositories and talk to me for work in some project or organization.
 
 Tools that I use actually: Power BI, Python, MySQL Workbrench, MongoDB, Git and Articial Intelligence.
 <!--

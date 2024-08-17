@@ -1,7 +1,6 @@
-## Hi 👋
-Focusing on data analytics, but I like programming especially in backend development. Recently I am learning Power BI and Machine Learning. Be welcome to collaborate in my repositories and talk to me for work in some project or organization.
+## Hello, mate! 👋🇨🇦
+I'm currently learning Java and SQL. I'm want to become a backend developer and I have knowledge in Python, Artificial Intelligence, Power BI and Git. Be welcome to talk with me in Telegram for working together in some project. By the way, I'm also testing Linux distros. Recently using Ubuntu Unity.
 
-Tools that I use actually: Power BI, Python, MySQL Workbrench, MongoDB, Git and Articial Intelligence.
 <!--
 **yurimacena/yurimacena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

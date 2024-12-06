@@ -14,7 +14,13 @@
 </p>
 
 <p align="left">
-  💼 Tools: Office, Power BI, Python, HTML, CSS and JavaScript.
+  💼 Other Tools: <br>
+  Office; <br>
+  Git; <br>
+  HTML; <br>
+  CSS; <br>
+  MySQL; <br>
+  Power BI. <br>
 </p>
 
 <p align="left">

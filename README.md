@@ -4,8 +4,8 @@
 
 <p align="left"> 
   Hello, mate! I'm currently studying web design and data analysis! <br>
-  Searching for a job in the tech field and accepting collaboration in some projects, <br>
-  I'm still looking for a stack to specialize in. Coursing technical in system development since july 2024 and started programming at the end of 2023.
+  Searching for a job in the tech field and accepting collaboration in some projects, I'm still looking for a stack to specialize in. <br>
+  Coursing technical in system development since july 2024 and started programming at the end of 2023.
   
 </p>
 
